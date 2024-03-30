@@ -1,4 +1,4 @@
-### Hi, I'm Martin <img src="https://www.martinpluisch.com/wave.gif" width=25vw align=top>
+### Hi, I'm Martin <img src="https://www.martinpluisch.com/wave" width=25vw align=top>
 
 - 🎓 I'm currently pursuing my Ph.D. in Computer Science @ TU Darmstadt / BRSU
 - 🔬 My Ph.D. focuses on context-aware adaptations and multisensory stimuli for AR
