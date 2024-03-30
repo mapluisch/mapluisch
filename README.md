@@ -1,4 +1,4 @@
-<h3>Hi, I'm Martin <img src="https://www.martinpluisch.com/wave.gif" width="2.5%" align="top"></h3>
+<h3>Hi, I'm Martin <img src="https://www.martinpluisch.com/wave.gif" width="25vw" align="top"></h3>
 
 
 
