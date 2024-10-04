@@ -4,4 +4,4 @@
 - 🔬 currently researching context-aware adaptations and multisensory stimuli for AR
 - 🔍 fascinated by AR, VR, HCI (and game dev, whenever i get the chance)
 
-<i>most of my repos are private, but i’m happy to share closed-source code when I can - feel free to ask</i>
+<i>most of my repos are private, but i’m happy to share closed-source code when possible - feel free to ask</i>
